@@ -9,8 +9,8 @@ font:bold 3em verdana,arial,sans-serif;
 }
 .back {background:#ffd;cursor:pointer;}
 .cf1  {background:#800080;color:#800080;}
-.cf2  {background:#00ffff;color:#00ffff;}
-.cf3  {background:#ffff00;color:#ffff00;}
+.cf2  {background:#00FFFF;color:#00FFFF;}
+.cf3  {background:#FFFF00;color:#FFFF00;}
 .ui-btn {width: 9em; margin:auto !important;}
 .count {
 margin:auto;
