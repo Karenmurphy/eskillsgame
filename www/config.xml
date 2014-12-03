@@ -4,8 +4,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
 		id="com.game.eskillsgame"
 		version="0.0.1">
-	<name>Karen  eskillsgame</name>
-		<gap:platform name="android" /><description>this eskills game was developed by Karen for ITGirls2014!</description>
+	<name>Karen's eskills memory game</name>
+		<gap:platform name="android" /> <description>This eskills game was developed by Karen for ITGirls2014!</description>
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="true" />
